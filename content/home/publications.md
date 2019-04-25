@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = false
+    exclude_featured = true
   
 [design]
   # Toggle between the various page layout types.
@@ -65,7 +65,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+1. Hongbin Liu, Hao Wu, Weiwei Sun, Ickjai Lee, "Spatio-Temporal GRU for Trajectory Classification", Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI), Macao, 2019. In review.
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+2. Hongbin Liu and Ickjai Lee, "End-to-end trajectory transportation mode classification using Bi-LSTM recurrent neural network" 2017 12th International Conference on Intelligent Systems and Knowledge Engineering (ISKE), Nanjing, 2017.
