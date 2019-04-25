@@ -74,13 +74,4 @@ subtitle = ""
  css_class = ""
 +++
 
-##### [BinTorch](https://github.com/bingo619/bintorch)
-A simple replication of PyTorch using numpy and autograd. PyTorch has a very nice API especially the dynamic computation graph makes it so flexible to use and easy to debug. However, understanding how dynamic computation graph works can be difficult by reading the source code, as it runs heavy c++ backend code for better performance. This project is to help someone who would like to understand what is behind the scene without reading the complicated c++ code, as well as those who wants to know how deep learning framework works in general.
-
-##### [ReadPapers](https://itunes.apple.com/au/app/readpapers/id1440504486?mt=8)
-An iOS App made for searching and downloading academic papers from Arxiv and Sci-hub.
-
-##### [Air Presentaion - PPT remote](https://itunes.apple.com/us/app/air-presentatation-ppt-remote/id1294122699?mt=8)
-This is a hobby project done for fun.
-
 
