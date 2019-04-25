@@ -13,7 +13,7 @@ function toggleSearchDialog(){if($('body').hasClass('searching')){$('[id=search-
 function toggleDarkMode(codeHlEnabled,codeHlLight,codeHlDark){if($('body').hasClass('dark')){$('body').css({opacity:0,visibility:'visible'}).animate({opacity:1},500);$('body').removeClass('dark');if(codeHlEnabled){codeHlLight.disabled=false;codeHlDark.disabled=true;}
 $('.js-dark-toggle i').removeClass('fa-sun').addClass('fa-moon');localStorage.setItem('dark_mode','0');}else{$('body').css({opacity:0,visibility:'visible'}).animate({opacity:1},500);$('body').addClass('dark');if(codeHlEnabled){codeHlLight.disabled=true;codeHlDark.disabled=false;}
 $('.js-dark-toggle i').removeClass('fa-moon').addClass('fa-sun');localStorage.setItem('dark_mode','1');}}
-$(document).ready(function(){let default_mode=0;if($('body').hasClass('dark')){default_mode=1;}
+$(document).ready(function(){let default_mode=1;if($('body').hasClass('dark')){default_mode=1;}
 let dark_mode=parseInt(localStorage.getItem('dark_mode')||default_mode);const codeHlEnabled=$('link[title=hl-light]').length>0;const codeHlLight=$('link[title=hl-light]')[0];const codeHlDark=$('link[title=hl-dark]')[0];if(dark_mode){$('body').addClass('dark');if(codeHlEnabled){codeHlLight.disabled=true;codeHlDark.disabled=false;}
 $('.js-dark-toggle i').removeClass('fa-moon').addClass('fa-sun');}else{$('body').removeClass('dark');if(codeHlEnabled){codeHlLight.disabled=false;codeHlDark.disabled=true;}
 $('.js-dark-toggle i').removeClass('fa-sun').addClass('fa-moon');}
