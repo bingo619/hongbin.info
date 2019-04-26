@@ -3,7 +3,7 @@ title = "End-to-end trajectory transportation mode classification using Bi-LSTM 
 date = 2017-11-25T19:28:09+10:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Hongbin Liu", "Ickjai Lee"]
+authors = ["**Hongbin Liu**", "Ickjai Lee"]
 
 # Publication type.
 # Legend:
