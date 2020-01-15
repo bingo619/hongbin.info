@@ -19,7 +19,7 @@ organizations = [ { name = "James Cook University", url = "https://jcu.edu.au" }
 bio = "My research interests include Deep Learning, spatio-temporal data mining and computer vision."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "h@liu.vc"
+email = "hongbin.liu@jcu.edu.au"
 
 # List (academic) interests or hobbies
 interests = [
@@ -51,18 +51,18 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:h@liu.vc"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:hongbin.liu@jcu.edu.au"  # For a direct email link, use "mailto:test@example.org".
 
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = "https://liu.vc/linkedin"
+  link = "https://hongbin.info/linkedin"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://liu.vc/github"
+  link = "https://hongbin.info/github"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
