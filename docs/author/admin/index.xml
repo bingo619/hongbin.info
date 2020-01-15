@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongbin Liu</title>
+    <link>https://hongbin.info/author/admin/</link>
+    <description>Recent content on Hongbin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    
+	<atom:link href="https://hongbin.info/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

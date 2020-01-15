@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on Hongbin Liu</title>
+    <link>https://hongbin.info/tags/deep-learning/</link>
+    <description>Recent content in Deep Learning on Hongbin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Thu, 25 Apr 2019 19:37:43 +1000</lastBuildDate>
+    
+	<atom:link href="https://hongbin.info/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bintorch</title>
+      <link>https://hongbin.info/project/bintorch/</link>
+      <pubDate>Thu, 25 Apr 2019 19:37:43 +1000</pubDate>
+      
+      <guid>https://hongbin.info/project/bintorch/</guid>
+      <description>A simple replication of PyTorch using numpy and autograd. This project is to help someone who would like to understand what is behind the scene without reading the complicated c++ code, as well as those who wants to know how deep learning framework works in general.</description>
+    </item>
+    
+  </channel>
+</rss>

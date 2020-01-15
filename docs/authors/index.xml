@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Hongbin Liu</title>
+    <link>https://hongbin.info/authors/</link>
+    <description>Recent content in Authors on Hongbin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Tue, 14 Jan 2020 19:31:57 +1000</lastBuildDate>
+    
+	<atom:link href="https://hongbin.info/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>**Hongbin Liu**</title>
+      <link>https://hongbin.info/authors/hongbin-liu/</link>
+      <pubDate>Tue, 14 Jan 2020 19:31:57 +1000</pubDate>
+      
+      <guid>https://hongbin.info/authors/hongbin-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ickjai Lee</title>
+      <link>https://hongbin.info/authors/ickjai-lee/</link>
+      <pubDate>Tue, 14 Jan 2020 19:31:57 +1000</pubDate>
+      
+      <guid>https://hongbin.info/authors/ickjai-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Wu</title>
+      <link>https://hongbin.info/authors/hao-wu/</link>
+      <pubDate>Fri, 08 Nov 2019 19:31:57 +1000</pubDate>
+      
+      <guid>https://hongbin.info/authors/hao-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weiwei Sun</title>
+      <link>https://hongbin.info/authors/weiwei-sun/</link>
+      <pubDate>Fri, 08 Nov 2019 19:31:57 +1000</pubDate>
+      
+      <guid>https://hongbin.info/authors/weiwei-sun/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

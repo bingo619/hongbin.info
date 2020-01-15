@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hongbin Liu</title>
+    <link>https://hongbin.info/tags/</link>
+    <description>Recent content in Tags on Hongbin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Thu, 25 Apr 2019 19:37:43 +1000</lastBuildDate>
+    
+	<atom:link href="https://hongbin.info/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://hongbin.info/tags/deep-learning/</link>
+      <pubDate>Thu, 25 Apr 2019 19:37:43 +1000</pubDate>
+      
+      <guid>https://hongbin.info/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://hongbin.info/tags/ios/</link>
+      <pubDate>Thu, 25 Apr 2019 19:35:03 +1000</pubDate>
+      
+      <guid>https://hongbin.info/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

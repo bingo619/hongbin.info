@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iOS on Hongbin Liu</title>
+    <link>https://hongbin.info/tags/ios/</link>
+    <description>Recent content in iOS on Hongbin Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <lastBuildDate>Thu, 25 Apr 2019 19:35:03 +1000</lastBuildDate>
+    
+	<atom:link href="https://hongbin.info/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Readpapers</title>
+      <link>https://hongbin.info/project/readpapers/</link>
+      <pubDate>Thu, 25 Apr 2019 19:35:03 +1000</pubDate>
+      
+      <guid>https://hongbin.info/project/readpapers/</guid>
+      <description>An iOS App made for searching and downloading academic papers from Arxiv and Sci-hub.</description>
+    </item>
+    
+    <item>
+      <title>Air Presentation - PPT remote</title>
+      <link>https://hongbin.info/project/air/</link>
+      <pubDate>Wed, 24 Apr 2019 19:40:17 +1000</pubDate>
+      
+      <guid>https://hongbin.info/project/air/</guid>
+      <description>This is a hobby project done for fun.</description>
+    </item>
+    
+  </channel>
+</rss>
