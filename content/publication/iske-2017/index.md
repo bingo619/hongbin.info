@@ -1,5 +1,5 @@
 +++
-title = "End-to-end trajectory transportation mode classification using Bi-LSTM recurrent neural network"
+title = "End-to-end Trajectory Transportation Mode Classification using Bi-LSTM Recurrent Neural Network"
 date = 2017-11-25T19:28:09+10:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
