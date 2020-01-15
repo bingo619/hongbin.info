@@ -3,7 +3,7 @@ title = "Spatio-Temporal GRU for Trajectory Classification"
 date = 2019-11-08T19:31:57+10:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Hong-bin Liu**", "Hao Wu", "Weiwei Sun", "Ickjai Lee"]
+authors = ["**Hong-Bin Liu**", "Hao Wu", "Weiwei Sun", "Ickjai Lee"]
 
 # Publication type.
 # Legend:
