@@ -1,6 +1,6 @@
 +++
-title = "Spatio-Temporal GRU for Trajectory Classification (in review)"
-date = 2019-04-25T19:31:57+10:00
+title = "Spatio-Temporal GRU for Trajectory Classification"
+date = 2019-11-08T19:31:57+10:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Hongbin Liu**", "Hao Wu", "Weiwei Sun", "Ickjai Lee"]
@@ -19,8 +19,8 @@ authors = ["**Hongbin Liu**", "Hao Wu", "Weiwei Sun", "Ickjai Lee"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence"
-publication_short = "IJCAI"
+publication = "IEEE International Conference on Data Mining 2019"
+publication_short = "ICDM (ERA Rank A, Core Rank A*)"
 
 # Abstract.
 abstract = ""

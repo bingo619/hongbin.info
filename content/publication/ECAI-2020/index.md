@@ -1,6 +1,6 @@
 +++
-title = "End-to-end trajectory transportation mode classification using Bi-LSTM recurrent neural network"
-date = 2017-11-25T19:28:09+10:00
+title = "Bridging the Gap Between Training and Inference for Spatio-Temporal Forecasting"
+date = 2020-01-14T19:31:57+10:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["**Hongbin Liu**", "Ickjai Lee"]
@@ -19,11 +19,12 @@ authors = ["**Hongbin Liu**", "Ickjai Lee"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "12th International Conference on Intelligent Systems and Knowledge Engineering"
-publication_short = "ISKE (ERA Rank B, Core Rank B)"
+publication = "24th European Conference on Artificial Intelligence"
+publication_short = "ECAI Accepted (ERA Rank A, Core Rank A)"
 
 # Abstract.
 abstract = ""
+#abstract = "Trajectory classification is a fundamental problem of location-based services with many real world applications such as travel mode classification, animal mobility detection, and location recommendation. In the literature, many approaches have been proposed to solve this task including some deep learning models like LSTM recently for sequence classification. However, these approaches have drawbacks, either treating spatial and temporal information as a whole or omitting the temporal information. Moreover, some models like Time-LSTM, have been proposed to handle the temporal information in the trajectory but do not take into account spatial information. We argue that spatio-temporal information is crucial for the trajectory classification task and should be further studied. Consequently, we propose a trajectory classifier called Spatio-temporal GRU (in short ST-GRU) to better model the spatio-temporal correlations. We introduce a novel segmented convolutional weight mechanism for capturing short-term local spatial correlations in trajectories and proposes an additional temporal gate to control the information flow related to the temporal information. Our approach has achieved the state-of-the-art performance in the trajectory classification task (especially for the travel mode classification task)."
 
 # Summary. An optional shortened abstract.
 summary = ""
