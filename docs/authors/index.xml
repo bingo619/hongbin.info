@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Hongbin Liu</title>
+    <title>Authors | Hong-bin Liu</title>
     <link>https://hongbin.info/authors/</link>
       <atom:link href="https://hongbin.info/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>**Hongbin Liu**</title>
-      <link>https://hongbin.info/authors/hongbin-liu/</link>
+      <title>**Hong-bin Liu**</title>
+      <link>https://hongbin.info/authors/hong-bin-liu/</link>
       <pubDate>Tue, 14 Jan 2020 19:31:57 +1000</pubDate>
-      <guid>https://hongbin.info/authors/hongbin-liu/</guid>
+      <guid>https://hongbin.info/authors/hong-bin-liu/</guid>
       <description></description>
     </item>
     
@@ -45,11 +45,19 @@
     </item>
     
     <item>
+      <title>**Hongbin Liu**</title>
+      <link>https://hongbin.info/authors/hongbin-liu/</link>
+      <pubDate>Sat, 25 Nov 2017 19:28:09 +1000</pubDate>
+      <guid>https://hongbin.info/authors/hongbin-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://hongbin.info/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://hongbin.info/authors/admin/</guid>
-      <description>&lt;p&gt;Hongbin Liu is a 3rd-year Ph.D candidate at James Cook University under supervision of 
+      <description>&lt;p&gt;Hong-bin Liu is a 3rd-year Ph.D candidate at James Cook University under supervision of 
 &lt;a href=&#34;https://research.jcu.edu.au/portfolio/ickjai.lee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Ickjai Lee&lt;/a&gt;
 . Before joining JCU, he obtained his Master of Computer Science from RMIT, Australia. And worked as a full-stack developer for 5 years both in China and Australia. His research interest includes Artificial Intelligence, Spatio-temporal reasoning, and Computer vision etc.&lt;/p&gt;
 </description>

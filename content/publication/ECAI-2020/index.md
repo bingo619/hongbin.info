@@ -3,7 +3,7 @@ title = "Bridging the Gap Between Training and Inference for Spatio-Temporal For
 date = 2020-01-14T19:31:57+10:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Hongbin Liu**", "Ickjai Lee"]
+authors = ["**Hong-bin Liu**", "Ickjai Lee"]
 
 # Publication type.
 # Legend:
