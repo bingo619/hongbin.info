@@ -19,7 +19,7 @@ organizations = [ { name = "James Cook University", url = "https://jcu.edu.au" }
 bio = "My research interests include Deep Learning, spatio-temporal data mining and computer vision."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "hongbin.liu@jcu.edu.au"
+email = "me@hongbin.info"
 
 # List (academic) interests or hobbies
 interests = [
@@ -51,7 +51,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:hongbin.liu@jcu.edu.au"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:me@hongbin.info"  # For a direct email link, use "mailto:test@example.org".
 
 
 [[social]]
