@@ -415,7 +415,7 @@
     let defaultThemeVariation;
     if ($('body').hasClass('dark')) {
       // The `color_theme` of the site is dark.
-      defaultThemeVariation = 1;
+      // defaultThemeVariation = 1;
     } else if ($('.js-dark-toggle').length && window.matchMedia('(prefers-color-scheme: dark)').matches) {
       // The visitor prefers dark themes and switching to the dark variation is allowed by admin.
       defaultThemeVariation = 1;
