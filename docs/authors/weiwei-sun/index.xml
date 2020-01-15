@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weiwei Sun on Hongbin Liu</title>
+    <title>Weiwei Sun | Hongbin Liu</title>
     <link>https://hongbin.info/authors/weiwei-sun/</link>
-    <description>Recent content in Weiwei Sun on Hongbin Liu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language>
-    <lastBuildDate>Fri, 08 Nov 2019 19:31:57 +1000</lastBuildDate>
-    
-	<atom:link href="https://hongbin.info/authors/weiwei-sun/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://hongbin.info/authors/weiwei-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weiwei Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-au</language><lastBuildDate>Fri, 08 Nov 2019 19:31:57 +1000</lastBuildDate>
+    <image>
+      <url>https://hongbin.info/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Weiwei Sun</title>
+      <link>https://hongbin.info/authors/weiwei-sun/</link>
+    </image>
     
     <item>
       <title>Spatio-Temporal GRU for Trajectory Classification</title>
       <link>https://hongbin.info/publication/icdm-2019/</link>
       <pubDate>Fri, 08 Nov 2019 19:31:57 +1000</pubDate>
-      
       <guid>https://hongbin.info/publication/icdm-2019/</guid>
       <description></description>
     </item>

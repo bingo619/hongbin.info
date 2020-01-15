@@ -8,7 +8,7 @@ draft = false
 tags = ["iOS"]
 
 # Project summary to display on homepage.
-summary = "This is a hobby project done for fun."
+summary = "PPT remote controller."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

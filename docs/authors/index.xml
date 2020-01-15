@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Hongbin Liu</title>
+    <title>Authors | Hongbin Liu</title>
     <link>https://hongbin.info/authors/</link>
-    <description>Recent content in Authors on Hongbin Liu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-au</language>
-    <lastBuildDate>Tue, 14 Jan 2020 19:31:57 +1000</lastBuildDate>
-    
-	<atom:link href="https://hongbin.info/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://hongbin.info/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-au</language><lastBuildDate>Tue, 14 Jan 2020 19:31:57 +1000</lastBuildDate>
+    <image>
+      <url>https://hongbin.info/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://hongbin.info/authors/</link>
+    </image>
     
     <item>
       <title>**Hongbin Liu**</title>
       <link>https://hongbin.info/authors/hongbin-liu/</link>
       <pubDate>Tue, 14 Jan 2020 19:31:57 +1000</pubDate>
-      
       <guid>https://hongbin.info/authors/hongbin-liu/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Ickjai Lee</title>
       <link>https://hongbin.info/authors/ickjai-lee/</link>
       <pubDate>Tue, 14 Jan 2020 19:31:57 +1000</pubDate>
-      
       <guid>https://hongbin.info/authors/ickjai-lee/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>Hao Wu</title>
       <link>https://hongbin.info/authors/hao-wu/</link>
       <pubDate>Fri, 08 Nov 2019 19:31:57 +1000</pubDate>
-      
       <guid>https://hongbin.info/authors/hao-wu/</guid>
       <description></description>
     </item>
@@ -42,9 +40,19 @@
       <title>Weiwei Sun</title>
       <link>https://hongbin.info/authors/weiwei-sun/</link>
       <pubDate>Fri, 08 Nov 2019 19:31:57 +1000</pubDate>
-      
       <guid>https://hongbin.info/authors/weiwei-sun/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hongbin.info/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hongbin.info/authors/admin/</guid>
+      <description>&lt;p&gt;Hongbin Liu is a 3rd-year Ph.D candidate at James Cook University under supervision of 
+&lt;a href=&#34;https://research.jcu.edu.au/portfolio/ickjai.lee/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Ickjai Lee&lt;/a&gt;
+. Before joining JCU, he obtained his Master of Computer Science from RMIT, Australia. And worked as a full-stack developer for 5 years both in China and Australia. His research interest includes Artificial Intelligence, Spatio-temporal reasoning, and Computer vision etc.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
