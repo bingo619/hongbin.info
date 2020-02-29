@@ -19,7 +19,7 @@ summary = "An iOS App made for searching and downloading academic papers from Ar
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://itunes.apple.com/au/app/readpapers/id1440504486?mt=8"
+external_link = "https://github.com/bingo619/ReadPapers"
 
 # Links (optional).
 url_pdf = ""
