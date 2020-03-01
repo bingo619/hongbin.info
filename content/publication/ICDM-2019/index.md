@@ -30,7 +30,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/ICDM.2019.00152"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -56,7 +56,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8970798"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -67,7 +67,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+# links = [{name = "Custom Link", url = "https://ieeexplore.ieee.org/document/8970798"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

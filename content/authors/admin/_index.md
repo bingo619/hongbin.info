@@ -24,8 +24,8 @@ email = "me@hongbin.info"
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Spatio-temporal reasoning",
-  "Computer vision"
+  "Spatio-Temporal Reasoning",
+  "Computer Vision"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -73,4 +73,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hong-Bin Liu is a 3rd-year Ph.D candidate at James Cook University under supervision of [Professor Ickjai Lee](https://research.jcu.edu.au/portfolio/ickjai.lee/). Before joining JCU, he obtained his Master of Computer Science from RMIT, Australia. And worked as a full-stack developer for 5 years both in China and Australia. His research interest includes Artificial Intelligence, Spatio-temporal reasoning, and Computer vision etc.
+Hong-Bin Liu is a final-year Ph.D candidate at James Cook University under supervision of [Professor Ickjai Lee](https://research.jcu.edu.au/portfolio/ickjai.lee/). Before joining JCU, he obtained his Master of Computer Science from RMIT, Australia. And worked as a full-stack developer for 5 years both in China and Australia. His research interests include Artificial Intelligence, Spatio-Temporal Reasoning, and Computer Vision etc.

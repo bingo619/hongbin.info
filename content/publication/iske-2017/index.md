@@ -29,7 +29,7 @@ abstract = ""
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1109/ISKE.2017.8258799"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -55,7 +55,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://ieeexplore.ieee.org/document/8258799"
 url_code = ""
 url_dataset = ""
 url_project = ""
