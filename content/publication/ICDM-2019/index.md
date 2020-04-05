@@ -67,7 +67,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "https://ieeexplore.ieee.org/document/8970798"}]
+links = [{name = "Bibtex", url = "files/st-gru-icdm.bib"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

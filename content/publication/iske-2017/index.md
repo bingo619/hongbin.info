@@ -66,7 +66,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Bibtex", url = "files/iske2017.bib"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
