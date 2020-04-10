@@ -56,7 +56,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/document/8970798"
+url_pdf = "files/ST-GRU.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
