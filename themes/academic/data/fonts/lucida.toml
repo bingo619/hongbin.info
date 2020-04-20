@@ -5,7 +5,7 @@ name = "Lucida"
 google_fonts = "Lucida:400,700|Lucida|Roboto+Mono"
 
 # Font families
-heading_font = "Lucida"
-body_font = "Lucida"
+heading_font = "Lucida Sans Unicode, Lucida Grande, sans-serif"
+body_font = "Lucida Sans Unicode, Lucida Grande, sans-serif"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
