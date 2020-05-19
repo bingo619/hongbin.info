@@ -5,12 +5,20 @@
     <link>https://hongbin.info/authors/hong-bin-liu/</link>
       <atom:link href="https://hongbin.info/authors/hong-bin-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>**Hong-Bin Liu**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-au</language><lastBuildDate>Tue, 14 Jan 2020 19:31:57 +1000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-au</language><lastBuildDate>Mon, 18 May 2020 19:31:57 +1000</lastBuildDate>
     <image>
       <url>https://hongbin.info/images/icon_huf63f98ee01fc4e2b8168e9c708fe641b_14120_512x512_fill_lanczos_center_2.png</url>
       <title>**Hong-Bin Liu**</title>
       <link>https://hongbin.info/authors/hong-bin-liu/</link>
     </image>
+    
+    <item>
+      <title>MPL-GAN: Towards Realistic Meteorological Predictive Learning Using Conditional GAN</title>
+      <link>https://hongbin.info/publication/ieee-acess-mpl-gan/</link>
+      <pubDate>Mon, 18 May 2020 19:31:57 +1000</pubDate>
+      <guid>https://hongbin.info/publication/ieee-acess-mpl-gan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bridging the Gap Between Training and Inference for Spatio-Temporal Forecasting</title>

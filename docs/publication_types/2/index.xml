@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Hong-Bin Liu</title>
+    <link>https://hongbin.info/publication_types/2/</link>
+      <atom:link href="https://hongbin.info/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-au</language><lastBuildDate>Mon, 18 May 2020 19:31:57 +1000</lastBuildDate>
+    <image>
+      <url>https://hongbin.info/images/icon_huf63f98ee01fc4e2b8168e9c708fe641b_14120_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://hongbin.info/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>MPL-GAN: Towards Realistic Meteorological Predictive Learning Using Conditional GAN</title>
+      <link>https://hongbin.info/publication/ieee-acess-mpl-gan/</link>
+      <pubDate>Mon, 18 May 2020 19:31:57 +1000</pubDate>
+      <guid>https://hongbin.info/publication/ieee-acess-mpl-gan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
