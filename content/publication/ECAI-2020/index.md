@@ -67,7 +67,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Preprint", url = "files/TPG.pdf"}]
+links = [{name = "Preprint", url = "files/TPG.pdf"},{name = "Arxiv", url = "https://arxiv.org/abs/2005.09343"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
