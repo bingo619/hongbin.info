@@ -56,7 +56,7 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9094665"
+url_pdf = "files/MPL-GAN.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
