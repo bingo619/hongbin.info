@@ -13,7 +13,7 @@ role = "Ph.D"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "James Cook University", url = "https://jcu.edu.au" } ]
+organizations = [ { name = "Xi'an Jiaotong-Liverpool University (XJTLU)", url = "https://www.xjtlu.edu.cn/en/departments/academic-departments/entrepreneur-college-taicang/staff/hongbin-liu" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include Deep Learning, spatio-temporal data mining and computer vision."
@@ -66,11 +66,11 @@ user_groups = ["Researchers", "Visitors"]
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[social]]
- icon = "cv"
- icon_pack = "ai"
- link = "files/cv.pdf"
+#[[social]]
+ #icon = "cv"
+ #icon_pack = "ai"
+ #link = "files/cv.pdf"
 
 +++
 
-Hong-Bin Liu obtained his PhD of Information Technology from JCU, and his Master of Computer Science from RMIT, Australia. His research interests include Artificial Intelligence, Spatio-Temporal Reasoning, and Computer Vision etc. He has published several top-tier conference papers in the field of Data Mining and Artificial Intelligence including ICDM 2019 and ECAI 2020. Hong-bin is also a casual academic in James Cook University that involves in teaching several Data Science subjects.
+Hong-Bin Liu has joined XJTLU as an assisstant professor in 2021, I am looking for motivated PhD/master research students. He obtained his PhD of Information Technology from JCU, and his Master of Computer Science from RMIT, Australia. His research interests include Artificial Intelligence, Spatio-Temporal Reasoning, and Computer Vision etc. He has published several top-tier conference papers in the field of Data Mining and Artificial Intelligence including ICDM 2019 and ECAI 2020. Hong-bin is also a casual academic in James Cook University that involves in teaching several Data Science subjects.

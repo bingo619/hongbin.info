@@ -7,59 +7,10 @@
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-au</language><lastBuildDate>Mon, 18 May 2020 19:31:57 +1000</lastBuildDate>
     <image>
-      <url>https://hongbin.info/images/icon_huf63f98ee01fc4e2b8168e9c708fe641b_14120_512x512_fill_lanczos_center_2.png</url>
+      <url>https://hongbin.info/images/icon_huf63f98ee01fc4e2b8168e9c708fe641b_14120_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
       <link>https://hongbin.info/authors/</link>
     </image>
-    
-    <item>
-      <title>**Hong-Bin Liu**</title>
-      <link>https://hongbin.info/authors/hong-bin-liu/</link>
-      <pubDate>Mon, 18 May 2020 19:31:57 +1000</pubDate>
-      <guid>https://hongbin.info/authors/hong-bin-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ickjai Lee</title>
-      <link>https://hongbin.info/authors/ickjai-lee/</link>
-      <pubDate>Mon, 18 May 2020 19:31:57 +1000</pubDate>
-      <guid>https://hongbin.info/authors/ickjai-lee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hao Wu</title>
-      <link>https://hongbin.info/authors/hao-wu/</link>
-      <pubDate>Fri, 08 Nov 2019 19:31:57 +1000</pubDate>
-      <guid>https://hongbin.info/authors/hao-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weiwei Sun</title>
-      <link>https://hongbin.info/authors/weiwei-sun/</link>
-      <pubDate>Fri, 08 Nov 2019 19:31:57 +1000</pubDate>
-      <guid>https://hongbin.info/authors/weiwei-sun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Hongbin Liu**</title>
-      <link>https://hongbin.info/authors/hongbin-liu/</link>
-      <pubDate>Sat, 25 Nov 2017 19:28:09 +1000</pubDate>
-      <guid>https://hongbin.info/authors/hongbin-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://hongbin.info/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hongbin.info/authors/admin/</guid>
-      <description>&lt;p&gt;Hong-Bin Liu obtained his PhD of Information Technology from JCU, and his Master of Computer Science from RMIT, Australia. His research interests include Artificial Intelligence, Spatio-Temporal Reasoning, and Computer Vision etc. He has published several top-tier conference papers in the field of Data Mining and Artificial Intelligence including ICDM 2019 and ECAI 2020. Hong-bin is also a casual academic in James Cook University that involves in teaching several Data Science subjects.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

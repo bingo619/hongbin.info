@@ -1,131 +1,79 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hongbin.info/authors/hong-bin-liu/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication_types/2/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/authors/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/authors/ickjai-lee/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication/ieee-acess-mpl-gan/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication_types/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication/</loc>
     <lastmod>2020-05-18T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication_types/1/</loc>
     <lastmod>2020-01-14T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication/ecai-2020/</loc>
     <lastmod>2020-01-14T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/authors/hao-wu/</loc>
     <lastmod>2019-11-08T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication/icdm-2019/</loc>
     <lastmod>2019-11-08T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/authors/weiwei-sun/</loc>
     <lastmod>2019-11-08T19:31:57+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/project/bintorch/</loc>
     <lastmod>2019-04-25T19:37:43+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/tags/deep-learning/</loc>
     <lastmod>2019-04-25T19:37:43+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/project/</loc>
     <lastmod>2019-04-25T19:37:43+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/tags/</loc>
     <lastmod>2019-04-25T19:37:43+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/tags/ios/</loc>
     <lastmod>2019-04-25T19:35:03+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/project/readpapers/</loc>
     <lastmod>2019-04-25T19:35:03+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/project/air/</loc>
     <lastmod>2019-04-24T19:40:17+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/authors/hongbin-liu/</loc>
     <lastmod>2017-11-25T19:28:09+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/publication/iske-2017/</loc>
     <lastmod>2017-11-25T19:28:09+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hongbin.info/talk/</loc>
   </url>
-  
 </urlset>

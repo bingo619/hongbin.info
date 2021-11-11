@@ -7,26 +7,10 @@
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-au</language><lastBuildDate>Thu, 25 Apr 2019 19:37:43 +1000</lastBuildDate>
     <image>
-      <url>https://hongbin.info/images/icon_huf63f98ee01fc4e2b8168e9c708fe641b_14120_512x512_fill_lanczos_center_2.png</url>
+      <url>https://hongbin.info/images/icon_huf63f98ee01fc4e2b8168e9c708fe641b_14120_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
       <link>https://hongbin.info/tags/</link>
     </image>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://hongbin.info/tags/deep-learning/</link>
-      <pubDate>Thu, 25 Apr 2019 19:37:43 +1000</pubDate>
-      <guid>https://hongbin.info/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://hongbin.info/tags/ios/</link>
-      <pubDate>Thu, 25 Apr 2019 19:35:03 +1000</pubDate>
-      <guid>https://hongbin.info/tags/ios/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
